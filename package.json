@@ -1,0 +1,35 @@
+{
+  "name": "vue-tree",
+  "version": "1.0.0",
+  "description": "Vue.js tree component with lazy or full structure loading, 3 node states and node index",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/effus/vue-tree.git"
+  },
+  "keywords": [
+    "vue",
+    "tree"
+  ],
+  "author": "effus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/effus/vue-tree/issues"
+  },
+  "homepage": "https://github.com/effus/vue-tree#readme",
+  "dependencies": {
+    "css-loader": "^0.28.11",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.2",
+    "style-loader": "^0.21.0",
+    "vue": "^2.5.16",
+    "vue-loader": "^15.2.4",
+    "webpack": "^4.10.2"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.0.1"
+  }
+}
